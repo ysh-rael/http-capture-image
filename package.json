@@ -1,6 +1,6 @@
 {
   "name": "http-capture-image",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple library to capture images via HTTP requests",
   "main": "index.js",
   "keywords": [
