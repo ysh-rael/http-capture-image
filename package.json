@@ -1,0 +1,33 @@
+{
+  "name": "http-capture-image",
+  "version": "1.0.0",
+  "description": "Simple library to capture images via HTTP requests",
+  "main": "index.js",
+  "keywords": [
+    "http",
+    "image",
+    "capture",
+    "camera",
+    "snapshot"
+  ],
+  "author": "Deivid de Oliveira Souza",
+  "contributors": [
+    {
+      "name": "Ysh-rael",
+      "url": "https://github.com/ysh-rael"
+    }
+  ],
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ysh-rael/http-capture-image.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ysh-rael/http-capture-image/issues"
+  },
+  "homepage": "https://github.com/ysh-rael/http-capture-image#readme",
+  "dependencies": {
+    "moment": "^2.24.0",
+    "request": "^2.88.0"
+  }
+}
